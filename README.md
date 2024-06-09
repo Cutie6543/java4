@@ -1,7 +1,4 @@
-# java4
-a program in java about coverting currency of different types
 import java.util.Scanner;
-
 public class CurrencyConverter {
     // Exchange rates
     static double USD_TO_EUR = 0.85;
